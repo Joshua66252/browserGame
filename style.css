@@ -1,0 +1,15 @@
+body {
+	background-color: #5c5c5c;
+  /*margin: 0;
+	position: fixed;
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 0 40rem black inset;*/
+	text-align: center;
+}
+p,h1{
+	white-space: pre-wrap;
+	font-family: monospace;
+	color:white;
+	text-align:center;
+}
